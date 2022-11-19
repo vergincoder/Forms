@@ -1,0 +1,52 @@
+.elem{
+  width: 200px;
+  height: 50px;
+  border: 2px solid black;
+}
+
+td{
+  text-align: center;
+  width: 150px;
+  white-space: nowrap;
+  padding: 10px;
+  vertical-align: middle;
+}
+th{
+  text-align: center;
+  font-weight: bold;
+}
+
+
+.card1{
+  background-color: #999;
+}
+.card2{
+  background-color: #03f;
+  color: #FFFF;
+}
+.card3{
+  background-color: #ff6;
+}
+.card4{
+  background-color: #ff0;
+}
+.card5{
+  background-color: #60c;
+  color: #FFFF;
+}
+.card6{
+  background-color: #09f;
+  color: #FFFF;
+}
+.card7{
+  background-color: #963;
+  color: #FFFF;
+}
+.card8{
+  background-color: #f60;
+  color: #FFFF;
+}
+.card9{
+  background-color: #0c3;
+  color: #FFFF;
+}
